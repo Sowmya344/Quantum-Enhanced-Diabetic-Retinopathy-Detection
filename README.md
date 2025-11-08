@@ -80,11 +80,6 @@ pip install kagglehub pennylane opencv-python-headless torch torchvision torchau
 
 ## Citation & Authors
 
-**Author**: Sowmya Abirami  
+**Author**: Sowmya R  
 Adapted for medical image analysis with hybrid quantum machine learning.
 
-***
-
-*This README is auto-generated for the Colab notebook "VQE and resnet 3.ipynb" (Hybrid quantum-classical model for diabetic retinopathy classification with explainable AI visualization).*
-
-[1](https://colab.research.google.com/drive/1AYtSu0GsVYu1Z0MUnJ2uWErCxJ_2gUb3)
